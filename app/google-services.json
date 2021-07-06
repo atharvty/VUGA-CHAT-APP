@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987234913388",
+    "project_id": "vuga-3cdb2",
+    "storage_bucket": "vuga-3cdb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987234913388:android:51280558ff8f1f0008dc49",
+        "android_client_info": {
+          "package_name": "com.example.vuga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987234913388-200o0bse0c6mdgdajof6co5pelaja4n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_jFFL3TQf3fe-tiqhy3f9YjE1ua7iYqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987234913388-200o0bse0c6mdgdajof6co5pelaja4n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
